@@ -10,12 +10,12 @@ Originally, these tutorials were designed as part of the Open Online Course [Sta
 
 To run the code in the tutorials, you will need to install the interpreter from a USB stick, or using the following link:
 
-https://drive.switch.ch/index.php/s/z7BiAYWi8t0X7lR
+[https://drive.switch.ch/index.php/s/z7BiAYWi8t0X7lR](https://drive.switch.ch/index.php/s/z7BiAYWi8t0X7lR)
 
 ### Tutorials
 
-* [Tutorial 1](tutorials/tutorial1.html): Hello Scalismo
-* [Tutorial 2](tutorials/tutorial2.html): Modelling with Gaussian processes
-* [Tutorial 3](tutorials/tutorial3.html): Model fitting with Metropolis Hastings
-* [Tutorial 4](tutorials/tutorial4.html): Building a shape model from data
-* [Tutorial 5](tutorials/tutorial5.html): Reconstruction of partial data
+* [Tutorial 1](tutorial1.html): Hello Scalismo
+* [Tutorial 2](tutorial2.html): Modelling with Gaussian processes
+* [Tutorial 3](tutorial3.html): Model fitting with Metropolis Hastings
+* [Tutorial 4](tutorial4.html): Building a shape model from data
+* [Tutorial 5](tutorial5.html): Reconstruction of partial data
