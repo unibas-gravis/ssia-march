@@ -1,4 +1,3 @@
-{% include head.html %}
 
 # Reconstruction of partial data
 

@@ -1,4 +1,3 @@
-{% include head.html %}
 
 # Building a shape model from data
 

@@ -1,4 +1,3 @@
-{% include head.html %}
 
 # Model fitting with Metropolis Hastings
 
